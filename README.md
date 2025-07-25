@@ -1,1 +1,1 @@
-# Age_Calculator
+This Age Calculator project is a simple web application built using html, css & js, that calculates a person's age in years, months, and days based on their date of birth. The application takes the user's date of birth as input and displays their age in a user-friendly format.
